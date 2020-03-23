@@ -38,6 +38,18 @@ Total: 59 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_math1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_math2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_math3) |
 | Answer | [A1](./JAVA-Math/javaMathE1.java) | [A2](./JAVA-Math/javaMathE2.java) | [A3](./JAVA-Math/javaMathE3.java) |
 
+## [JAVA Booleans](./JAVA-Booleans): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_booleans.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_booleans1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_booleans2) |
+| Answer | [A1](./JAVA-Booleans/javaBooleansE1.java) | [A2](./JAVA-Booleans/javaBooleansE2.java) |
+
+## [JAVA If...Else](./JAVA-IfElse): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_conditions.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions5) |
+| Answer | [A1](./JAVA-IfElse/javaIfElseE1.java) | [A2](./JAVA-IfElse/javaIfElseE2.java) | [A3](./JAVA-IfElse/javaIfElseE3.java) | [A4](./JAVA-IfElse/javaIfElseE4.java) | [A5](./JAVA-IfElse/javaIfElseE5.java) |
+
 
 
 
