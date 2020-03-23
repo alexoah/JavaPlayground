@@ -50,6 +50,11 @@ Total: 59 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions5) |
 | Answer | [A1](./JAVA-IfElse/javaIfElseE1.java) | [A2](./JAVA-IfElse/javaIfElseE2.java) | [A3](./JAVA-IfElse/javaIfElseE3.java) | [A4](./JAVA-IfElse/javaIfElseE4.java) | [A5](./JAVA-IfElse/javaIfElseE5.java) |
 
+## [JAVA Switch](./JAVA-Switch): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_switch.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_switch1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_switch2) |
+| Answer | [A1](./JAVA-Switch/javaSwitchE1.java) | [A2](./JAVA-Switch/javaSwitchE2.java) |
 
 
 
