@@ -1,0 +1,10 @@
+/**
+ *	from JAVA Data Types: Exercise 2 ( https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types2 )
+ *
+ *	question:
+ *	byte, short, int, long, float, double, boolean and char are called:
+ *	
+ *	primitive data types.
+ *
+ */
+primitive data types.
