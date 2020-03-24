@@ -68,7 +68,23 @@ Total: 59 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays5) | [Q6](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays6) |
 | Answer | [A1](./JAVA-Arrays/javaArraysE1.java) | [A2](./JAVA-Arrays/javaArraysE2.java) | [A3](./JAVA-Arrays/javaArraysE3.java) | [A4](./JAVA-Arrays/javaArraysE4.java) | [A5](./JAVA-Arrays/javaArraysE5.java) | [A6](./JAVA-Arrays/javaArraysE6.java) |
 
+## [JAVA Methods](./JAVA-Methods): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_methods.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_methods1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_methods2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_methods3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_methods4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_methods5) |
+| Answer | [A1](./JAVA-Methods/javaMethodsE1.java) | [A2](./JAVA-Methods/javaMethodsE2.java) | [A3](./JAVA-Methods/javaMethodsE3.java) | [A4](./JAVA-Methods/javaMethodsE4.java) | [A5](./JAVA-Methods/javaMethodsE5.java) |
 
+## [JAVA Classes/Objects](./JAVA-Classes_Objects): 8 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_classes.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes5) | [Q6](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes6) | [Q7](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes7) | [Q8](https://www.w3schools.com/java/exercise.asp?filename=exercise_classes8) |
+| Answer | [A1](./JAVA-Classes_Objects/javaClasses_ObjectsE1.java) | [A2](./JAVA-Classes_Objects/javaClasses_ObjectsE2.java) | [A3](./JAVA-Classes_Objects/javaClasses_ObjectsE3.java) | [A4](./JAVA-Classes_Objects/javaClasses_ObjectsE4.java) | [A5](./JAVA-Classes_Objects/javaClasses_ObjectsE5.java) | [A6](./JAVA-Classes_Objects/javaClasses_ObjectsE6.java) | [A7](./JAVA-Classes_Objects/javaClasses_ObjectsE7.java) | [A8](./JAVA-Classes_Objects/javaClasses_ObjectsE8.java) |
+
+## [JAVA Exceptions](./JAVA-Exceptions): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_try_catch.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_try_catch1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_try_catch2) |
+| Answer | [A1](./JAVA-Exceptions/javaExceptionsE1.java) | [A2](./JAVA-Exceptions/javaExceptionsE2.java) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
