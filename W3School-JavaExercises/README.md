@@ -62,6 +62,11 @@ Total: 59 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop5) | [Q6](https://www.w3schools.com/java/exercise.asp?filename=exercise_while_loop6) |
 | Answer | [A1](./JAVA-Loops/javaLoopsE1.java) | [A2](./JAVA-Loops/javaLoopsE2.java) | [A3](./JAVA-Loops/javaLoopsE3.java) | [A4](./JAVA-Loops/javaLoopsE4.java) | [A5](./JAVA-Loops/javaLoopsE5.java) | [A6](./JAVA-Loops/javaLoopsE6.java) |
 
+## [JAVA Arrays](./JAVA-Arrays): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/java/java_arrays.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays1) | [Q2](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays2) | [Q3](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays3) | [Q4](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays4) | [Q5](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays5) | [Q6](https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays6) |
+| Answer | [A1](./JAVA-Arrays/javaArraysE1.java) | [A2](./JAVA-Arrays/javaArraysE2.java) | [A3](./JAVA-Arrays/javaArraysE3.java) | [A4](./JAVA-Arrays/javaArraysE4.java) | [A5](./JAVA-Arrays/javaArraysE5.java) | [A6](./JAVA-Arrays/javaArraysE6.java) |
 
 
 
